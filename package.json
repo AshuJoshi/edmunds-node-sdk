@@ -1,0 +1,19 @@
+{
+  "name": "edmunds-node-sdk",
+  "version": "0.0.1",
+  "description": "A Node SDK for the Edmunds API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Edmunds"
+  ],
+  "author": "Ashu Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "2.3.3",
+    "request": "2.79.0",
+    "request-promise": "4.1.1"
+  }
+}
